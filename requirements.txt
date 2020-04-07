@@ -1,0 +1,6 @@
+  
+pandas == 0.25.3
+beautifulsoup4
+requests
+matplotlib
+plotly
